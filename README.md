@@ -1,2 +1,2 @@
-# django: Date Picker in a Form
-Learning Django
+# Date Picker in a Form
+Example for rendering a Date field with a Date picker in a Form and a Model Form
